@@ -17,12 +17,12 @@ git clone https://github.com/orihara-ori/basic-example-hyperledger-composer.git
 ```
 ## server install(Hyperledger Fablic)
 ```
-./server/inital-server-install.sh
+./server/initial-server-install.sh
 ```
 
 ## client install(Hyperledger Composer And Tools)
 ```
-./client/inital-client-install.sh
+./client/initial-client-install.sh
 ```
 ### 質問の回答
 ```
@@ -45,8 +45,6 @@ composer-rest-server
 ```
 ? Enter the name of the business network card to use: admin@tutorial-network
 ? Specify if you want namespaces in the generated REST API: never use namespaces
-
-
 ? Specify if you want to enable authentication for the REST API using Passport:
 No
 ? Specify if you want to enable event publication over WebSockets: Yes
