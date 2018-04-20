@@ -51,6 +51,3 @@ No
 ? Specify if you want to enable TLS security for the REST API: No
 ```
 
-# 動作検証
-## server ()
-
