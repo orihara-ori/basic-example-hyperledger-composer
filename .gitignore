@@ -1,0 +1,9 @@
+.DS_Store
+Thumbs.db
+.idea
+server/*
+!initial-server-install.sh
+client/*
+!client/initial-client-install.sh
+!client/template/
+
