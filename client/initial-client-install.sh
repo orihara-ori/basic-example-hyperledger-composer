@@ -15,7 +15,6 @@ yo hyperledger-composer:businessnetwork
 
 cd tutorial-network
 
-npm install
 
 composer archive create -t dir -n .
 

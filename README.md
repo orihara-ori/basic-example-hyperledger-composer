@@ -3,12 +3,13 @@
   - https://hyperledger.github.io/composer/latest/installing/development-tools.html
 
 # 利用の前提条件
-- Mac: 10.12
-- xocde: 9.2
-- Docker Engine: Version 18.03.0
-- Docker-Compose: Version 1.20.1
-- npm: 5.6.0
-- git: 2.x
+- Mac: 10.12 or higher
+- xocde: 9.2 or higher
+- Docker Engine: Version 18.03.0 or higher
+- Docker-Compose: Version 1.20.1 or higher
+- npm: 5.6.0 or higher
+- nodejs: 9.4.0 or higher
+- git: 2.x or higher
 
 # 利用手順
 ## ダウンロード
