@@ -21,11 +21,9 @@ composer archive create -t dir -n .
 composer network install --card PeerAdmin@hlfv1 --archiveFile tutorial-network@0.0.2.bna
 
 sleep 2
-composer network start --networkName tutorial-network --networkVersion 0.0.2 --networkAdmin admin --networkAdminEnrollSecret adminpw --card PeerAdmin@hlfv1 --file networkadmin.card
-sleep 2
 composer network upgrade -c peeradmin@hlfv1 -n tutorial-network -V 0.0.2
 
 
-echo "success inital client installation!"
+echo "Success upgrade for network!"
 
 

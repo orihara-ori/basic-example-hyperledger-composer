@@ -30,7 +30,7 @@ git clone https://github.com/orihara-ori/basic-example-hyperledger-composer.git
 Business network name: tutorial-network
 Description: this is turorial network
 Author name:  your name
-Author email: youer-mail-address
+Author email: your-mail-address
 License: Apache-2.0
 Namespace: org.acme.mynetwork
 ```

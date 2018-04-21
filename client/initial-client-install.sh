@@ -32,7 +32,7 @@ composer network ping --card admin@tutorial-network
 
 npm install
 
-cp template/tutorial-network/example_node_0.0.1.js tutorial-network/
+cp ../template/tutorial-network/example_node_0.0.1.js .
 
 
 echo "success inital client installation!"
